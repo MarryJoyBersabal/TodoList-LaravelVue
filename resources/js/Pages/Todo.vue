@@ -38,6 +38,7 @@ function deleteTodo(todo){
       </h2>
     </template>
 
+<!--TodoList Card-->
     <div class="h-full min-h-screen flex items-center justify-center bg-gradient-to-br from-teal-100 to-teal-300 font-sans p-4">
       <div class="bg-white rounded-lg shadow-lg p-6 w-full lg:w-3/4 lg:max-w-2xl">
         <div class="mb-6">
